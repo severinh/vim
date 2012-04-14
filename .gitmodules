@@ -1,0 +1,33 @@
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/delmitmate"]
+	path = bundle/delmitmate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/closetag"]
+	path = bundle/closetag
+	url = git://github.com/docunext/closetag.vim.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim
+[submodule "bundle/minibufexpl"]
+	path = bundle/minibufexpl
+	url = https://github.com/fholgado/minibufexpl.vim
+[submodule "bundle/async-command"]
+	path = bundle/async-command
+	url = https://github.com/pydave/AsyncCommand
+[submodule "bundle/tcomment"]
+	path = bundle/tcomment
+	url = https://github.com/tomtom/tcomment_vim
